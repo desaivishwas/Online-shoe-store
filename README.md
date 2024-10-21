@@ -1,13 +1,12 @@
 # Athlos
 
-## E-commerce Athleisure Website 
+> An E-commerce Athleisure Website 
 
-An E-commerce shoe store built in Python, MySQL, REST, React and Django
+__Tech Stack: Python, MySQL, REST, React and Django__
 
 
 ## Work done
 
--	Designed a dynamic e-commerce athleisure store to search, purchase, review athleisure products and implemented CRUD features on web services using REST APIs and MySQL
--	Functionalized a full-stack E-Commerce web application using Python, Django and React
-
-
+- Designed an e-commerce platform for athleisure products, featuring RESTful APIs and MySQL for efficient product search, purchase, review, and data management.
+  
+- Developed a modular application using Python, Django, and React to ensure scalability and maintainability.
