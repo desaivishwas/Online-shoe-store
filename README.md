@@ -1,4 +1,6 @@
-# E-commerce Athleisure Website 
+# Athlos
+
+## E-commerce Athleisure Website 
 
 An E-commerce shoe store built in Python, MySQL, REST, React and Django
 
