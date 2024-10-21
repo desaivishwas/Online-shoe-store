@@ -1,6 +1,9 @@
 # Athlos
 
-> An E-commerce Athleisure Website 
+> An E-commerce Athleisure Website
+> 
+![Landing Page]()
+
 
 __Tech Stack: Python, MySQL, REST, React and Django__
 
