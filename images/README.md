@@ -1,5 +1,5 @@
-Images
+# Images
 
 
-Contains images and assets used for the website
+### Contains images and assets used for the website
 
