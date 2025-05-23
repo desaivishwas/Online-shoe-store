@@ -1,1 +1,4 @@
-this is makrdown for this subfolder
+# Images
+
+### Contains images and assets used for the website
+
